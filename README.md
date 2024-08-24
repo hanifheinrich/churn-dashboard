@@ -1,6 +1,6 @@
 # Digital User Churn Dashboard
 
-Churn dashboard adalah alat visualisasi yang dirancang untuk memantau dan menganalisis tingkat churn pelanggan dalam suatu periode tertentu. Dashboard merupakan tugas magang saya di Rakamin Academy rakamin.com, menyediakan wawasan mendalam tentang tren perilaku pelanggan dan faktor-faktor yang mempengaruhi churn, membantu tim untuk mengambil keputusan strategis dalam upaya mempertahankan pelanggan.
+Churn dashboard adalah alat visualisasi yang dirancang untuk memantau dan menganalisis tingkat churn pelanggan dalam suatu periode tertentu. Dashboard ini merupakan tugas magang saya di rakamin.com, menyediakan wawasan mendalam tentang tren perilaku pelanggan dan faktor-faktor yang mempengaruhi churn, membantu tim untuk mengambil keputusan strategis dalam upaya mempertahankan pelanggan.
 
 ## Table of Contents:
 
